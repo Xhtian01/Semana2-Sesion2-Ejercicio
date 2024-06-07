@@ -6,4 +6,5 @@
 4. git branch 'Nombre_Rama' --> Crear una nueva rama
 5. git checkout 'Nombre_Rama' --> Traspasar a una rama
 6. git checkout -b --> Crea rama y se traspasa a la vez
-
+7. git branch -D 'Nombre_Rama' --> Eliminar rama
+8. git branch -m Main --> Cambiar el nombre de la rama a Main
