@@ -9,3 +9,6 @@
 7. git branch -D 'Nombre_Rama' --> Eliminar rama
 8. git branch -m Main --> Cambiar el nombre de la rama a Main
 9. git merge 'Nombre_Rama' --> Pasar las modificaciones de la rama a la Main (Se debe estar en la rama Main)
+
+
+Esto es una prueba
